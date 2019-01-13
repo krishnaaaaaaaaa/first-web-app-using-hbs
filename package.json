@@ -1,0 +1,25 @@
+{
+  "name": "first-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnaaaaaaaaa/first-web-app-using-hbs.git"
+  },
+  "author": "krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnaaaaaaaaa/first-web-app-using-hbs/issues"
+  },
+  "homepage": "https://github.com/krishnaaaaaaaaa/first-web-app-using-hbs#readme"
+}
